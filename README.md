@@ -18,3 +18,10 @@ Fique por dentro de todos os eventos: LINK
 - **Pílulas u.dti:** discussão de tópicos dos cursos oferecidos pela u.dti 
 
   <a href="https://https://www.dtidigital.com.br//">dtidigital</a></p>
+  
+  <style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
