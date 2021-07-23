@@ -4,7 +4,7 @@ Fique por dentro de todos os eventos: LINK
 
 ## Techshot: Regressão logística para análise de dados binários
 - 27/07/2021 às 18h (online)
-- Saiba mais e retire já o seu ingresso gratuito: LINK
+- Saiba mais e retire já o seu ingresso gratuito: <https://dti.ag/dti-tech270721>
 
 
 ## Ficou curioso(a) para entender os tipos de eventos? Se liga:
