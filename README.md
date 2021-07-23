@@ -16,3 +16,5 @@ Fique por dentro de todos os eventos: LINK
 - **Bate-papo:** um ótimo momento para trocar experiências e conhecimento com as guildas de excelência técnica da dti. 
 - **dti compartilha:**  é uma parceria dti e faculdade. Buscamos levar aos alunos a experiência do mercado de TI.  É uma excelente oportunidade para integração dos alunos ao mercado de trabalho, aos colaboradores, perpetuando assim a indústria-universidade. 
 - **Pílulas u.dti:** discussão de tópicos dos cursos oferecidos pela u.dti 
+
+  <a href="https://https://www.dtidigital.com.br//">dtidigital</a></p>
